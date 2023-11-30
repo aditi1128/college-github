@@ -72,24 +72,6 @@ bundler exec jekyll serve --watch --config _config.yml,_config-dev.yml
 [github-ssh]: https://help.github.com/articles/connecting-to-github-with-ssh/
 
 
-## 👩‍🚀 Contributors, backers & sponsors
-
-This project exists thanks to all the **people who contribute**.
-<a href="graphs/contributors"><img src="https://opencollective.com/opensourcedesign/contributors.svg?width=890&button=false" /></a>
-
-Thank you to **all our backers**! 🙏 ([Become a backer](https://opencollective.com/opensourcedesign#backer))
-
-<a href="https://opencollective.com/opensourcedesign#backers" target="_blank"><img src="https://opencollective.com/opensourcedesign/backers.svg?width=890"></a>
-
-**Support this project by becoming a sponsor.** ([Become a sponsor](https://opencollective.com/opensourcedesign#sponsor))
-
-<a href="https://opencollective.com/opensourcedesign/sponsor/0/website" target="_blank"><img src="https://opencollective.com/opensourcedesign/sponsor/0/avatar.svg"></a>
-
-
-## ♥ Code of Conduct
-
-Please note that Open Source Design has a [Contributor Code of Conduct](https://opensourcedesign.net/code-of-conduct/). By participating in this project online or at events you agree to abide by its terms.
-
 
 ## 📜 License
 
